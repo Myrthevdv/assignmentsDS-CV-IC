@@ -1,4 +1,4 @@
-# practicalsDS-UT
+# Assignments DS-UT
 
 This folder contains the material prepared in January 2022 for the master course Data Science at the University of Twente.
 
